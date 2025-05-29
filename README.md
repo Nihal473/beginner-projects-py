@@ -23,13 +23,6 @@ This repository contains a collection of **beginner-level Python projects** that
 
 ---
 
-## 📁 Project Structure
-
-Each folder contains:
-- A Python file (`.py`)
-- (Optional) README or notes about the project
-- Brief comments to explain what the code is doing
-
 ---
 
 ## ✅ Topics Covered
